@@ -1,0 +1,2 @@
+# DnnGAN
+DnnGAN Graph embedding 
